@@ -1,0 +1,5 @@
+Started App On: Sun May 26 13:22:55 2019
+ - DebugSun May 26 13:22:55 2019 - hello world 0
+ - DebugSun May 26 13:22:55 2019 - hello world 1
+ - DebugSun May 26 13:22:55 2019 - hello world 2
+ - DebugSun May 26 13:22:55 2019 - 1 1.5 address of logger is: 00B3F4E0

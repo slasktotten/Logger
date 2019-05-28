@@ -1,0 +1,5 @@
+Started App On: Sun May 26 13:35:10 2019
+00000000 - Debug - Sun May 26 13:35:10 2019 - hello world 0
+00000001 - Debug - Sun May 26 13:35:10 2019 - hello world 1
+00000002 - Debug - Sun May 26 13:35:10 2019 - hello world 2
+00000003 - Debug - Sun May 26 13:35:10 2019 - 1 1.5 address of logger is: 0008F2D8
